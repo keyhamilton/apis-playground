@@ -1,8 +1,8 @@
 #!/bin/bash
 #!/usr/bin/python3
 
-#test
-#echo 'Hi'
+# usage
+# ./cocktail.sh [drink]
 
 
 
