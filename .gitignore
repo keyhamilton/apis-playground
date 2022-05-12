@@ -1,0 +1,6 @@
+# ignora json
+*.json
+# ignora texto
+*.txt
+#ignora pasta pycache
+__pycache__
